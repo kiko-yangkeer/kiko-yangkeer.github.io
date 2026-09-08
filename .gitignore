@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Python（构建脚本可能产生）
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# 临时与本地缓存
+*.log
+*.tmp
+.cache/
+
+# 注意：assets/ 整个目录都需要被 git 追踪（含头像、PPT 预览图），不要忽略

@@ -211,8 +211,8 @@
         '<h1 class="page-title">联系我</h1>' +
         '<p class="lead">' + esc(D.contactLead) + '</p>' +
         '<div class="contact-list">' + rows + '</div>' +
-        '<div class="cta"><a class="btn" href="assets/resume/杨可儿-简历.pdf" download="杨可儿-简历.pdf">下载 PDF 简历</a></div>' +
-        '<p class="note">简历 PDF 正在整理，将随占位数据一并补充</p>' +
+        '<div class="cta"><a class="btn" href="assets/files/yangkeer-2026-resume.pdf" download="杨可儿-KIKO-2026秋招简历.pdf">下载 PDF 简历</a></div>' +
+        '<p class="note">简历 PDF 1 页（691 KB）· 涵盖 3 段核心实习 + AI 工作流实践 + 奖项与技能</p>' +
       '</div></section>';
   }
 
